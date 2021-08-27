@@ -1,0 +1,8 @@
+"tehran", "pizza", "banana", "new york", "advanced programming", "michael jordan",
+"lionel messi", "apple", "macaroni", "university", "intel", "kitten", "python", "java",
+"data structures", "algorithm", "assembly", "basketball", "hockey", "leader", "javascript",
+"toronto", "united states of america", "psychology", "chemistry", "breaking bad", "physics",
+"abstract classes", "linux kernel", "january", "march", "time travel", "twitter", "instagram",
+"dog breeds", "strawberry", "snow", "game of thrones", "batman", "ronaldo", "soccer",
+"hamburger", "italy", "greece", "albert einstein", "hangman", "clubhouse", "call of duty",
+"science", "theory of languages and automata"
